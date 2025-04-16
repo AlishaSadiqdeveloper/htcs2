@@ -1,0 +1,28 @@
+
+table{
+    
+   text-align: center;
+   padding: 40px;
+   font-family: 'Times New Roman', Times, serif;
+   color: ghostwhite;
+}
+*{
+    background-color: blueviolet;
+}
+h3{
+    color: darkkhaki;
+}
+ul{
+    color: darksalmon;
+}
+hr{
+    width: 50%;
+}
+body{
+    line-height: 15px;
+}
+.Name ,.Address ,.tel ,.Email{
+    text-align: center;
+}
+
+
